@@ -23,3 +23,7 @@ Machine Learning
 规律
 
 思考
+
+AI for Science
+AI4S
+科学智能
